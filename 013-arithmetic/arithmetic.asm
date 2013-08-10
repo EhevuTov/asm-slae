@@ -34,7 +34,7 @@ _start:
 	add dword [var3], 0xffffffff
 	add dword [var3], 0x10
 
-	; set / clear / complement carry flag
+	; clear / set  / complement carry flag
 	clc
 	stc
 	cmc
