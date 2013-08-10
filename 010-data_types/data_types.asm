@@ -22,7 +22,7 @@ _start:
 
 section .data
 	
-	var1: 	db 0xAA
+	var1:	db 0xAA
 	var2:	db 0xBB, 0xCC, 0xDD
 	var3:	dw 0xEE
 	var4:	dd 0xAABBCCDD
